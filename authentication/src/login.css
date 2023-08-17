@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+
+form{
+    border: 1px solid black;
+    padding: 15px;
+    border-radius: 8px;
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+
+input{
+    margin: 10px;
+    padding: 10px;
+}
+.form-control{
+    border-radius: 8px;
+}
+.btn{
+    color: white;
+    background-color: blue;
+    width: 80px;
+    border-radius: 8px;
+    cursor: pointer;
+}
