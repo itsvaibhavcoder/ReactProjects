@@ -1,0 +1,18 @@
+.nav{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+}
+
+input,button{
+    margin: 10px;
+    border-radius: 8px;
+    padding: 5px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+h1{
+    align-content: center;
+    margin-left: 30px;
+}
